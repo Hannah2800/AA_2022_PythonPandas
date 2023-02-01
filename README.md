@@ -2,12 +2,7 @@
 
 ## System monitoring and demand prediction of rental data from Ride Indego Philadelphia 2019: Python Pandas
 
-## Authors (Group 3):
-
-Hannah Windgasse, 7365823
-Fabian Klug, 7408587
-Jonas Klepke, 7355371
-Benjamin Genske, 7356117
+## Group 3
 
 ## Analytics and Application - WS2022-23
 
